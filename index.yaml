@@ -3,6 +3,16 @@ entries:
   nginx-test:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-05-09T07:42:06.36239686Z"
+    description: A Helm chart for Kubernetes
+    digest: f46eb40ce5d9e50b16283dac28034306ba479e57f22e9db95382c91c53102d60
+    name: nginx-test
+    type: application
+    urls:
+    - https://github.com/sicudl/test-flux-releases/releases/download/nginx-test-0.0.2/nginx-test-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-05-09T07:37:29.404522318Z"
     description: A Helm chart for Kubernetes
     digest: 01cb3c4457fc4752c0531596c6b9a0da9d7ac4726d0972a03bff49357db80763
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/sicudl/test-flux-releases/releases/download/nginx-test-0.0.1/nginx-test-0.0.1.tgz
     version: 0.0.1
-generated: "2023-05-09T07:37:29.404527818Z"
+generated: "2023-05-09T07:42:06.36240636Z"
